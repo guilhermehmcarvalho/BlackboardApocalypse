@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Pirate Game\Assets\Scripts\Items\MeleeWeapon.cs">
+    <Files>
+      <File FileName="..\..\Pirate Game\Assets\Scripts\Props\TNTBox.cs" Line="18" Column="44" />
+      <File FileName="..\..\Pirate Game\Assets\Scripts\Props\BreakableItem.cs" Line="25" Column="2" />
+      <File FileName="..\..\Pirate Game\Assets\Scripts\Items\MeleeWeapon.cs" Line="64" Column="6" />
+      <File FileName="..\..\Pirate Game\Assets\Scripts\Player\PlayerScript.cs" Line="371" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
